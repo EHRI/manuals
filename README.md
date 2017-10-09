@@ -8,7 +8,7 @@ on-line as [GitHub Pages](https://pages.github.com/) or
 documentation should be easily reachable from the
 overview page of the project/repository.
 
-In this **manuals** repository links to these
+In this **manuals repository** links to these
 external sites and additional documentation can be found,
 grouped in folders on a per-project base.
 
