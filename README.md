@@ -13,4 +13,7 @@ external sites and additional documentation can be found,
 grouped in folders on a per-project base.
 
 - [Metadata Publishing Tool (MPT)](https://github.com/EHRI/manuals/tree/master/MPT)
+Metadata Publishing Tool (MPT) is an application 
+for publishing resources in conformance with the 
+[ResourceSync Framework Specification](http://www.openarchives.org/rs/resourcesync).
  
