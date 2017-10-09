@@ -9,11 +9,15 @@ documentation should be easily reachable from the
 overview page of the project/repository.
 
 In this **manuals repository** links to these
-external sites and additional documentation can be found,
-grouped in folders on a per-project base.
+external sites and additional documentation,
+grouped in folders per-project, per-component or per-application.
 
 - [Metadata Publishing Tool (MPT)](https://github.com/EHRI/manuals/tree/master/MPT)
 Metadata Publishing Tool (MPT) is an application 
 for publishing resources in conformance with the 
 [ResourceSync Framework Specification](http://www.openarchives.org/rs/resourcesync).
  
+
+___
+*If you add new folders to this repository, please add a link
+to the new folder and a short description in this README.*
