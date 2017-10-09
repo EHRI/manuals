@@ -1,5 +1,5 @@
 # EHRI/manuals
-***Manuals about EHRI components and applications***
+***Manuals on EHRI components and applications***
 
 A full-blown project/repository in the EHRI-
 organisation on github will have sufficient documentation
@@ -10,4 +10,7 @@ overview page of the project/repository.
 
 In this **manuals** repository links to these
 external sites and additional documentation can be found,
-grouped in folders on a per-project base.  
+grouped in folders on a per-project base.
+
+- [Metadata Publishing Tool (MPT)](https://github.com/EHRI/manuals/tree/master/MPT)
+ 
