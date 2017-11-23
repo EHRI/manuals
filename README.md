@@ -16,6 +16,7 @@ grouped in folders per-component or application.
 Metadata Publishing Tool (MPT) is an application 
 for publishing resources in conformance with the 
 [ResourceSync Framework Specification](http://www.openarchives.org/rs/resourcesync).
+- [EAD Conversion Tool (ECT)](https://github.com/EHRI/manuals/tree/master/ECT)
  
 
 ___
